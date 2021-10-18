@@ -1,0 +1,14 @@
+.float {
+  margin: 10px;
+  float: right;
+  width: 320px;
+}
+
+div {
+  border: 1px solid #000;
+}
+
+/*help class*/
+.clear {
+  clear: right;
+}

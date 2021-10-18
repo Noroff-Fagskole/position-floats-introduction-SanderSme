@@ -1,0 +1,42 @@
+/*Position: static; default behavior*/
+/*
+.container {
+  position: static;
+}
+*/
+
+.container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgb(57, 180, 180);
+  width: 100px;
+  height: 100px;
+}
+
+.container2 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
+
+.container3 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: chocolate;
+  width: 100px;
+  height: 100px;
+}
+
+.container4 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-color: darkgreen;
+  width: 100px;
+  height: 100px;
+}
